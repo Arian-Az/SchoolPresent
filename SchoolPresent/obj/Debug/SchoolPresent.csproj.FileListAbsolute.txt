@@ -1,0 +1,35 @@
+c:\users\asus\documents\visual studio 2015\Projects\SchoolPresent\SchoolPresent\bin\Debug\SchoolPresent.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\SchoolPresent\SchoolPresent\bin\Debug\SchoolPresent.exe
+c:\users\asus\documents\visual studio 2015\Projects\SchoolPresent\SchoolPresent\bin\Debug\SchoolPresent.pdb
+c:\users\asus\documents\visual studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.exe
+c:\users\asus\documents\visual studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.pdb
+C:\Users\asus\documents\visual studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.AddNewStudent.resources
+C:\Users\asus\documents\visual studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.RemoveSt.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.RecordAbsent.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.EditStudentInfo.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.ReportStudents.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.ProgramSettings.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.ShowReport.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.MainForm.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.ResetForm.resources
+D:\Projects\SchoolPresent\SchoolPresent\bin\Debug\SchoolPresent.exe.config
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.exe
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.pdb
+D:\Projects\SchoolPresent\SchoolPresent\bin\Debug\SchoolPresent.exe
+D:\Projects\SchoolPresent\SchoolPresent\bin\Debug\SchoolPresent.pdb
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.AddNewStudent.resources
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.EditStudentInfo.resources
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.MainForm.resources
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.ProgramSettings.resources
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.Properties.Resources.resources
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.RecordAbsent.resources
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.RemoveSt.resources
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.ReportStudents.resources
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.ResetForm.resources
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.ShowReport.resources
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.csproj.GenerateResource.Cache
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.csproj.CoreCompileInputs.cache
+D:\Projects\SchoolPresent\SchoolPresent\obj\Debug\SchoolPresent.csproj.AssemblyReference.cache
